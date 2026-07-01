@@ -1,0 +1,32 @@
+{
+  "assets": [
+    {
+      "id": "1b6bdd71-b00e-41ea-82b3-22805c29d369",
+      "assetName": "lmn",
+      "category": "Equipment",
+      "latitude": 45,
+      "longitude": 45,
+      "timestamp": "2026-05-23T18:13:58.912",
+      "status": "Needs Repair"
+    },
+    {
+      "id": "_wzenPKCC7o",
+      "assetName": "House",
+      "category": "Infrastructure",
+      "latitude": 80,
+      "longitude": 100,
+      "timestamp": "2026-05-23T16:56:22.533",
+      "status": "Needs Repair"
+    },
+    {
+      "id": "a2gPkJ2rrB0",
+      "assetName": "Hashir",
+      "category": "Infrastructure",
+      "latitude": 68,
+      "longitude": 79,
+      "timestamp": "2026-05-23T18:28:08.436",
+      "status": "Broken"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
